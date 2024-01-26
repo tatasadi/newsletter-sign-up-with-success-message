@@ -13,6 +13,7 @@ This is a solution to the [Newsletter sign-up form with success message challeng
   - [My process](#my-process)
     - [Built with](#built-with)
     - [Code Quality with](#code-quality-with)
+    - [Implementation time](#implementation-time)
   - [Author](#author)
 
 ## Overview
@@ -31,10 +32,23 @@ Users should be able to:
 
 ### Screenshots
 
+Desktop:
+
 ![](./screenshot1.png)
+
+Validation:
+
 ![](./screenshot2.png)
+
+Success:
 ![](./screenshot3.png)
+
+Mobile:
+
 ![](./screenshot4.png)
+
+Mobile success:
+![](./screenshot5.png)
 
 ### Links
 
@@ -52,6 +66,10 @@ Users should be able to:
 ### Code Quality with
 
 ![](https://img.shields.io/badge/eslint-fff?style=for-the-badge&logo=eslint&logoColor=fff&color=4930bd) ![](https://img.shields.io/badge/prettier-fff?style=for-the-badge&logo=prettier&logoColor=000&color=f3ae42)
+
+### Implementation time
+
+This challenge was completed over a span of 2 hours.
 
 ## Author
 
