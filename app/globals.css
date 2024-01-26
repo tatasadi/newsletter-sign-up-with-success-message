@@ -14,7 +14,11 @@
     white-space: nowrap; /* added line */
     border: 0;
   }
-  
+
+  .btn {
+    @apply bg-neutral-dark-slate-grey hover:from-primary-orange hover:to-primary-pink w-full cursor-pointer rounded-lg px-12 py-4 font-bold leading-6 text-white hover:bg-gradient-to-b md:w-auto;
+  }
+
   .footer-link {
     @apply cursor-pointer underline;
   }
