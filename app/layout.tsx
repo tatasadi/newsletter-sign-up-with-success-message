@@ -30,7 +30,7 @@ export default function RootLayout({
         />
       </head>
       <body
-        className={`${roboto.className} bg-neutral-dark-slate-grey flex min-h-screen flex-col items-center justify-center text-white md:p-10`}
+        className={`${roboto.className} bg-neutral-charcoal-grey flex min-h-screen flex-col items-center justify-center text-white md:p-10`}
       >
         {children}
       </body>
